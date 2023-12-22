@@ -12,7 +12,7 @@ function Main()
   console.log(user_email);
   if(user_email!=="null")
   {
-  //Usuario esta loggeado 
+  //Usuario esta logueado 
     return Profile(user_email);
   }
   else
@@ -228,7 +228,7 @@ function Profile(user_email) {
           </TabsContainer>
         </FormContainer>
 
-        <img width="50%" src="/public/assets/usuario/Group 710.png" />
+        <img width="40%" src="/public/assets/usuario/Group-710.png" />
       </Container>
 
      

@@ -33,7 +33,7 @@ function Header() {
     },
     {
       id: "contacto",
-      text: "Contacto",
+      text: "Review",
       link: publicUrls.contact,
     },
 
