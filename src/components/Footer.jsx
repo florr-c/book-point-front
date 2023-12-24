@@ -54,7 +54,7 @@ function Footer() {
 
         {/*Footer Bottom  */}
         <div className="footer-bottom container">
-        <img src="/public/assets/landing/logo-footer.png" style={{width:'150px'}} alt="logo" />
+        <img src="/assets/landing/logo-footer.png" style={{width:'150px'}} alt="logo" />
         <p className="text-xs-center">
         &copy;{new Date().getFullYear()} Bookpoint Website- All Rights Reserved
         </p>

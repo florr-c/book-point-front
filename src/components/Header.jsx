@@ -66,7 +66,7 @@ function Header() {
           </Col>
           <Col xs="auto">
           <Button style={{backgroundColor:"#7FA683",color:'#202335',border:'none'}}>ES</Button> 
-          <img style={{width:'25px', paddingLeft:'8px'}} src="/public/assets/landing/icon-shop.png" alt="user"/> 
+          <img style={{width:'25px', paddingLeft:'8px'}} src="/assets/landing/icon-shop.png" alt="user"/> 
           </Col>
         </Row>
       </Form>

@@ -12,7 +12,7 @@ function Vendidos() {
       text: "$9.900,00",
       subtitle: "by Coleen Hoover",
       button: "Agregar",
-      imageSrc: "/public/assets/landing/book1.png",
+      imageSrc: "/assets/landing/book1.png",
     },
 
     {
@@ -20,7 +20,7 @@ function Vendidos() {
       text: "$9.000,00",
       subtitle: "by Barbara Kingsol",
       button: "Agregar",
-      imageSrc: "/public/assets/landing/book2.png",
+      imageSrc: "/assets/landing/book2.png",
     },
 
     {
@@ -28,7 +28,7 @@ function Vendidos() {
       text: "$8.950,00",
       subtitle: "by Laura Dave",
       button: "Agregar",
-      imageSrc: "/public/assets/landing/book3.png",
+      imageSrc: "/assets/landing/book3.png",
     },
   ];
 
@@ -38,7 +38,7 @@ function Vendidos() {
       text: "$9.900,00",
       subtitle: "by Barbra Streisand",
       button: "Agregar",
-      imageSrc: "/public/assets/categorias/book4.png",
+      imageSrc: "/assets/categorias/book4.png",
     },
 
     {
@@ -46,7 +46,7 @@ function Vendidos() {
       text: "$800,00",
       subtitle: "by Ann Patchett",
       button: "Agregar",
-      imageSrc: "/public/assets/categorias/book2.png",
+      imageSrc: "/assets/categorias/book2.png",
     },
 
     {
@@ -54,7 +54,7 @@ function Vendidos() {
       text: "$8.950,00",
       subtitle: "by Gabrielle Zevin ",
       button: "Agregar",
-      imageSrc: "/public/assets/categorias/book5.png",
+      imageSrc: "/assets/categorias/book5.png",
     },
   ];
 
@@ -64,7 +64,7 @@ function Vendidos() {
       text: "$9.900,00",
       subtitle: "by Justin Torres",
       button: "Agregar",
-      imageSrc: "/public/assets/categorias/book3.png",
+      imageSrc: "/assets/categorias/book3.png",
     },
 
     {
@@ -72,7 +72,7 @@ function Vendidos() {
       text: "$9.900,00",
       subtitle: "by Rachel Maddow ",
       button: "Agregar",
-      imageSrc: "/public/assets/categorias/book6.png",
+      imageSrc: "/assets/categorias/book6.png",
     },
 
     {
@@ -80,7 +80,7 @@ function Vendidos() {
       text: "$6.950,00",
       subtitle: "by Shane Hawk",
       button: "Agregar",
-      imageSrc: "/public/assets/categorias/book7.png",
+      imageSrc: "/assets/categorias/book7.png",
     },
   ];
   
@@ -155,7 +155,7 @@ function Vendidos() {
       <Container>
         <img
         width="100%"
-        src="/public/assets/masVendidos/banner-top.png"
+        src="/assets/masVendidos/banner-top.png"
         alt="banner"
       />
       <Container>
@@ -168,7 +168,7 @@ function Vendidos() {
 
       <img
         width="100%"
-        src="/public/assets/masVendidos/banner-footer.png"
+        src="/assets/masVendidos/banner-footer.png"
         alt="banner"
       />
     </>

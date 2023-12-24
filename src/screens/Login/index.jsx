@@ -123,12 +123,12 @@ function User() {
           </TabsContainer>
         </FormContainer>
 
-        <img width="40%" src="/public/assets/usuario/Group-710.png" />
+        <img width="40%" src="/assets/usuario/Group-710.png" />
       </Container>
 
       <img
         width="100%"
-        src="/public/assets/usuario/banner-footer.png"
+        src="/assets/usuario/banner-footer.png"
         alt="banner"
       />
     </>
@@ -194,7 +194,6 @@ function Profile(user_email) {
       <Container>
       <FormContainer>
           <h3>Acceso</h3>
-          <Form.Label>Email</Form.Label>
           <Form.Label>Nuevo Password</Form.Label>
           <Form.Control
             id="password"
@@ -228,7 +227,7 @@ function Profile(user_email) {
           </TabsContainer>
         </FormContainer>
 
-        <img width="40%" src="/public/assets/usuario/Group-710.png" />
+        <img width="40%" src="/assets/usuario/Group-710.png" />
       </Container>
 
      

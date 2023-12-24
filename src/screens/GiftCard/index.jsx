@@ -28,7 +28,7 @@ function giftCard() {
                 paddingBottom: "20px",
               }}>
               <img
-                src="/public/assets/gift-card/icon1.png"
+                src="/assets/gift-card/icon1.png"
                 style={{ width: "70px" }}
                 alt=""
               />
@@ -46,7 +46,7 @@ function giftCard() {
                 alignItems: "center",
               }}>
               <img
-                src="/public/assets/gift-card/icon2.png"
+                src="/assets/gift-card/icon2.png"
                 style={{ width: "70px" }}
                 alt=""
               />
@@ -62,24 +62,24 @@ function giftCard() {
 
         <img
           width="100%"
-          src="/public/assets/gift-card/banner-basic.png"
+          src="/assets/gift-card/banner-basic.png"
           alt="banner"
         />
         <img
           width="100%"
-          src="/public/assets/gift-card/banner-standard.png"
+          src="/assets/gift-card/banner-standard.png"
           alt="banner"
         />
         <img
           width="100%"
-          src="/public/assets/gift-card/banner-premium.png"
+          src="/assets/gift-card/banner-premium.png"
           alt="banner"
         />
       </Container>
 
       <img
         width="100%"
-        src="/public/assets/gift-card/bannerfooter.png"
+        src="/assets/gift-card/bannerfooter.png"
         alt="banner"
       />
     </>

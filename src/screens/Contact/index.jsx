@@ -162,7 +162,7 @@ function Contact() {
 
       <img
         width="100%"
-        src="/public/assets/review/banner-footer.png"
+        src="/assets/review/banner-footer.png"
         alt="banner"
       />
     </>

@@ -25,7 +25,7 @@ function PriceCard({ imageSrc, title, subtitle, text, button }) {
         src={imageSrc}
       />
       <img
-            src="/public/assets/landing/star1.png"
+            src="/assets/landing/star1.png"
             style={{
               width: "40%",
               height: "40%",
